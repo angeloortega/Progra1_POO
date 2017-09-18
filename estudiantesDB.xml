@@ -1,0 +1,26 @@
+<list>
+  <clases.Estudiante>
+    <nombre>Juan</nombre>
+    <carne>2017080055</carne>
+    <carrera>Ingenieria</carrera>
+    <correo>juan@gmail.com</correo>
+    <calificacion>100</calificacion>
+    <numero>85670231</numero>
+  </clases.Estudiante>
+  <clases.Estudiante>
+    <nombre>Angelo Ramirez Ortega</nombre>
+    <carne>2017080054</carne>
+    <carrera>Ingeniería en Computación</carrera>
+    <correo>angeloale1@gmail.com</correo>
+    <calificacion>100</calificacion>
+    <numero>85670231</numero>
+  </clases.Estudiante>
+  <clases.Estudiante>
+    <nombre>Marianito El Marcianito</nombre>
+    <carne>2017080053</carne>
+    <carrera>Ingeniería en Computación</carrera>
+    <correo>Mar_Marciano@yahoo.es</correo>
+    <calificacion>100</calificacion>
+    <numero>85670231</numero>
+  </clases.Estudiante>
+</list>

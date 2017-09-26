@@ -1,0 +1,62 @@
+<list>
+  <clases.Horario>
+    <identficador>Lunes Diurno</identficador>
+    <diaSemana>Monday</diaSemana>
+    <horaInicio>730</horaInicio>
+    <horaFin>1600</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Martes Diurno</identficador>
+    <diaSemana>Tuesday</diaSemana>
+    <horaInicio>730</horaInicio>
+    <horaFin>1600</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Miercoles Diurno</identficador>
+    <diaSemana>Wednesday</diaSemana>
+    <horaInicio>730</horaInicio>
+    <horaFin>1600</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Jueves Diurno</identficador>
+    <diaSemana>Thursday</diaSemana>
+    <horaInicio>730</horaInicio>
+    <horaFin>1600</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Viernes Diurno</identficador>
+    <diaSemana>Friday</diaSemana>
+    <horaInicio>730</horaInicio>
+    <horaFin>1600</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Lunes Nocturno</identficador>
+    <diaSemana>Monday</diaSemana>
+    <horaInicio>1800</horaInicio>
+    <horaFin>2200</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Martes Nocturno</identficador>
+    <diaSemana>Tuesday</diaSemana>
+    <horaInicio>1800</horaInicio>
+    <horaFin>2200</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Miercoles Nocturno</identficador>
+    <diaSemana>Wednesday</diaSemana>
+    <horaInicio>1800</horaInicio>
+    <horaFin>2200</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Jueves Nocturno</identficador>
+    <diaSemana>Thursday</diaSemana>
+    <horaInicio>1800</horaInicio>
+    <horaFin>2200</horaFin>
+  </clases.Horario>
+  <clases.Horario>
+    <identficador>Viernes Nocturno</identficador>
+    <diaSemana>Friday</diaSemana>
+    <horaInicio>1800</horaInicio>
+    <horaFin>2200</horaFin>
+  </clases.Horario>
+</list>
